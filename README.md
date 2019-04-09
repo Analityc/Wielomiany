@@ -30,12 +30,14 @@ x -3 + x -1 * 2 + *
 wynikiem programu może być
 
 -x^2+5x-6
+
 Dla danych
 
 x x * x 1 + @
 wynikiem programu może być
 
 x^2+2x+1
+
 Dla danych
 
 x 1 + x 1 + * x 1 + x 1 + * x 1 + x 1 + * @ @
