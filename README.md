@@ -27,6 +27,7 @@ Postać wyniku nie jest precyzyjnie określona, ale warto zadbać, by był on mo
 Dla danych
 
 x -3 + x -1 * 2 + *
+
 wynikiem programu może być
 
 -x^2+5x-6
@@ -34,6 +35,7 @@ wynikiem programu może być
 Dla danych
 
 x x * x 1 + @
+
 wynikiem programu może być
 
 x^2+2x+1
@@ -41,6 +43,7 @@ x^2+2x+1
 Dla danych
 
 x 1 + x 1 + * x 1 + x 1 + * x 1 + x 1 + * @ @
+
 wynikiem programu może być
 
 x^8+8x^7+32x^6+80x^5+138x^4+168x^3+144x^2+80x+25
